@@ -11,12 +11,43 @@ html, body {
 }
 
 body {
-  margin: auto;
-  width: 80%;
-  padding: 20px;
+    margin: auto;
+    width: 80%;
+    padding: 20px;
 }
 
 body > h1 {
   text-align: center;
   font-size: 3.5em;
+}
+
+img {
+    max-width: 100%;
+    width:300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.highlight {
+    color: orangered;
+}
+
+a:link {
+    color: mediumspringgreen;
+}
+
+a:visited {
+    color: mediumspringgreen;
+}
+
+u {
+    font-family: icons;
+    text-decoration-line: none;
+}
+
+@font-face {
+    font-family: icons;
+    src: url(materialdesignicons-webfont.ttf)
 }
