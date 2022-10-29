@@ -14,13 +14,28 @@
 <h2 id="icons">Icons</h2>
 <p>Select one of the icons on the top right of the page to send a copy of the bill by mail(<u>󰄈</u>), show items for all or only one person(<u></u>/<u></u>), add an additional item (<u></u>) or delete all items (<u>啕</u>).</p>
 <h2 id="line-items">Line Items</h2>
-<p>You can swipe individual items left or right, swipe left deletes the item (if you delete an item by mistake you can get it back until you exit the page). Tap on a line to make that the current one so you can edit the item name or price.</p>
+<p>You can swipe individual items left to deletes the item (if you delete an item by mistake you can get it back until you exit the page). Tap on an item to make that the current one so you can edit the name or price and/or assign it to one or more people.</p>
 <h2 id="open-flyout">Open Flyout</h2>
 <p>This icon(<u></u>), in the top left corner of the screen, allows you to show, or collapse, the flyout menu allowing navigation to other pages (navigate from the items page to the totals page by swiping left, back by swiping right).</p>
 <h2 id="sharing-control">Sharing Control</h2>
-<p>Tap here to remove the item assignments if there are any, if there are none, tapping will share the item cost in the same proportion as the rest of the bill so far. You can repeat this once the whole bill has been allocated if you want to make it more representative, alternatively, you can designate how the comped amount is shared manually just as for any other amount, although in the comped case only the tip is shared since the other amounts (cost and tax) are zero.</p>
+<p>Tap here to remove the item assignments if there are any, if there are none, tapping will share the item cost in the same proportion as the rest of the bill so far. You can repeat this once the whole bill has been allocated if you want to make it more representative, alternatively, you can designate how the amount is shared manually just as for any other amount. For comped items only the tip is shared since the other amounts (cost and tax) are zero.</p>
 <h2 id="venue-name">Venue Name</h2>
-<p>This is the name of the current venue, tap on it to see the details of the current bill, double tap to select a new venue from your list.</p>
+<p>This is the name of the current venue, tap on it to see the properties (tax and tip rates, for example) of the current bill, double tap to select a new venue from your list.</p>
 
+    <script>
+        let li = window.location.href.lastIndexOf("#");
+        var s;
+        if (li >= 0) {
+            s = window.location.href.substring(li + 1);
+        }
+
+        if (s != null && s.length > 0) {
+            let e = document.getElementById(s);
+            if (e != null) {
+                let h = e.innerHTML;
+                e.innerHTML = "<mark>" + h + "</mark>";
+            }
+        }
+    </script>
 </body>
 </html>
