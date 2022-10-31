@@ -7,9 +7,11 @@
 </head>
 <body>
     <h1 id="items-page">Items Page</h1>
-<p>This is where the individual items and the information about them is entered, either by scanning a paper bill or manually. It looks something like this.</p>
+<p>This shows how the page looks with an item selected, the highlight shows the selected item and at the bottom of the page there are buttons to assign amounts to each participant.</p>
 <p>Tap on a highlighted area to see what it does (on a desktop browser you can also hover over an area to see its name).</p>
-<p><object type=image/svg+xml data="itemspage.svg" height=600 style="width:90%"></object></p>
+<p><object type=image/svg+xml data="itemselected.svg" height=600 style="width:90%"></object></p>
+<h2 id="summary-of-items">Summary of Items</h2>
+<p>The appetizer and discount are shared evenly between 2 or more participants (+ in the left column), the wine is shared unevenly (* in the left column). The Chicken, Beef and Fish are each allocated to a single participant though the beef is comped (smiley face in the right column), so it won't add to the subtotal or tax, just the tip. The discount actually subtracts amounts from the subtotal and tax but not the tip.</p>
 
     <script>
         let li = window.location.href.lastIndexOf("#");

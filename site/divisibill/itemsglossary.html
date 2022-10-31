@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<head>
+    <title>Items Glossary</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <h1 id="items-glossary">Items Glossary</h1>
+<p>This is a list of the important areas on the items page as seen from left to right, top to bottom. You can see an image of the page itself <a href="itemspage.html">here</a>. If you reached this page by tapping one of the active areas in the page image, the relevant heading should be highlighted below.</p>
+<h2 id="icons">Icons</h2>
+<p>These appear in the toolbar at the top of the page or in the area revealed when you swipe on a participant line.</p>
+<h3 id="flyout">Flyout (<u></u>)</h3>
+<p>This icon, in the top left corner of the screen, allows you to show or collapse the flyout menu allowing navigation to other pages (navigate from the items page to the totals page by swiping left, back by swiping right).</p>
+<h3 id="mail">Mail (<u>󰄈</u>)</h3>
+<p>Sends mail containing information about the bill overall, not personalized to any specific participant.</p>
+<h3 id="filter">Filter (<u></u>)</h3>
+<p>Cancels filtering for a particular person if it is in use or filters based on the first person assigned to the selected item (if there is one).</p>
+<h3 id="add">Add (<u></u>)</h3>
+<p>Adds a new item to the bill and selects it so you can edit the description, amount and assignment to participants.</p>
+<h3 id="delete">Delete (<u>啕</u>)</h3>
+<p>Deletes all items (you can undo this if you do it by mistake). To delete a single item swipe left on that item.</p>
+<h2 id="venue-name">Venue Name</h2>
+<p>This is the name of the current venue, tap on it to see the properties (tax and tip rates, for example) of the current bill, double tap to select a new venue from your list.</p>
+<h2 id="sharing-control">Sharing Control</h2>
+<p>Tap here to remove the item assignments if there are any, if there are none, tapping will share the item cost in the same proportion as the rest of the bill so far. You can repeat this once the whole bill has been allocated if you want to make it more representative, alternatively, you can designate how the amount is shared manually just as for any other amount. For comped items only the tip is shared since the other amounts (cost and tax) are zero.</p>
+<p>This column will be blank for an unshared item, contain a circled digit (1,2...8,9,0) for an item assigned to only one participant, a plus sign for items assigned to more than one participant and an asterisk if the item is shared unequally between assignees.</p>
+<h2 id="comp">Comp</h2>
+<p>Sometimes items will be &quot;comped&quot; by a restaurant, usually by way of an apology because something went wrong. Clicking in this column allows you to toggle the Comped status of an item, denoted by ☺ (a smiley face icon). comped items are free, but still contribute to the tip. If you don't want a comped item to contribute to the tip, just set the cost to zero, or delete the item altogether.</p>
+<h2 id="line-items">Line Items</h2>
+<p>You can swipe individual items left to delete them (if you delete an item by mistake you can get it back until you exit the page). Tap on an item to make that the current one so you can edit the name or price and/or assign it to one or more participants.</p>
+<p>When an item is selected more controls appear, you can see them <a href="itemselected.html">here</a></p>
+
+    <script>
+        let li = window.location.href.lastIndexOf("#");
+        var s;
+        if (li >= 0) {
+            s = window.location.href.substring(li + 1);
+        }
+
+        if (s != null && s.length > 0) {
+            let e = document.getElementById(s);
+            if (e != null) {
+                let h = e.innerHTML;
+                e.innerHTML = "<mark>" + h + "</mark>";
+            }
+        }
+    </script>
+</body>
+</html>
