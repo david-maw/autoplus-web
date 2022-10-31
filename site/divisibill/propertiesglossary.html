@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<head>
+    <title>Bill Properties</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <h1 id="bill-properties">Bill Properties</h1>
+<p>This is a list of the less obvious areas on the bill properties page as seen from left to right, top to bottom. You can see an image of the page itself <a href="propertiespage.html">here</a>. If you reached this page by tapping one of the active areas in the page image, the relevant heading should be highlighted below.</p>
+<h2 id="tax">Tax</h2>
+<p>You can specify the tax either as a percentage, in which case the amount will be calculated, or an amount, in which case the program will calculate a tax rate rounded to the nearest 0.25% and if necessary calculate an adjustment (called a tax delta) amount to make the numbers add up.</p>
+<h2 id="tax-delta">Tax Delta</h2>
+<p>This is a place to store the difference between the tax amount and what would be calculated by multiplying the subtotal and the tax rate. Occasionally these differ by small amount (usually a cent) and the Tax Delta can be used to allow for this. Tap the increment or decrement buttons to change it (and the tax amount).</p>
+<h2 id="scanned">Scanned</h2>
+<p>Printed bills often have a subtotal and a tax amount printed on them, this is where those values are stored if they exist. If set, these values can be used to cross check the calculations (numbers which differ are highlighted).</p>
+
+    <script>
+        let li = window.location.href.lastIndexOf("#");
+        var s;
+        if (li >= 0) {
+            s = window.location.href.substring(li + 1);
+        }
+
+        if (s != null && s.length > 0) {
+            let e = document.getElementById(s);
+            if (e != null) {
+                let h = e.innerHTML;
+                e.innerHTML = "<mark>" + h + "</mark>";
+            }
+        }
+    </script>
+</body>
+</html>
