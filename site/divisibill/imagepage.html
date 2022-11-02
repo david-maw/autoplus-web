@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<head>
+    <title>Image Page</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <h1 id="image-page">Image Page</h1>
+<p>This is where you go to take a picture of the bill (or load it from a file) and scan it to extract the data using OCR (optical character recognition). The scanning is actually done by a web service so to minimize the amount of irrelevant data that is sent DivisiBill first converts an imported picture to gray scale and a lower resolution.</p>
+<p>Tap on a highlighted area to see what it does (on a desktop browser you can also hover over an area to see its name).</p>
+<p><object type=image/svg+xml data="imagepage.svg" height=200 style="width:90%"></object></p>
+
+    <script>
+        let li = window.location.href.lastIndexOf("#");
+        var s;
+        if (li >= 0) {
+            s = window.location.href.substring(li + 1);
+        }
+
+        if (s != null && s.length > 0) {
+            let e = document.getElementById(s);
+            if (e != null) {
+                let h = e.innerHTML;
+                e.innerHTML = "<mark>" + h + "</mark>";
+            }
+        }
+    </script>
+</body>
+</html>

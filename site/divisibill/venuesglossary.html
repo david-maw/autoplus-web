@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<head>
+    <title>Venue List</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <h1 id="venue-list">Venue List</h1>
+<p>This is a list of the important areas on the venue list page as seen from left to right, top to bottom. You can see an image of the page itself <a href="venuespage.html">here</a>. If you reached this page by tapping one of the active areas in the page image, the relevant heading should be highlighted below.</p>
+<h2 id="icons">Icons</h2>
+<p>These appear in the toolbar at the top of the page or in the area revealed when you swipe on a participant line.</p>
+<h3 id="flyout">Flyout (<u></u>)</h3>
+<p>This icon, in the top left corner of the screen, allows you to show or collapse the flyout menu allowing navigation to other pages.</p>
+<h3 id="download-list">Download List (<u>ﭙ</u>)</h3>
+<p>Tap here to download a new list from the cloud</p>
+<h3 id="sort">Sort (<u></u>)</h3>
+<p>Sorts the list of bills by age, name, or distance of the bill venue from your current location (venues with unknown locations sort last).</p>
+<h3 id="add">Add (<u></u>)</h3>
+<p>Selects only the most recent bill from each location. Shows a filled in icon when it is set.</p>
+<h2 id="heading">Heading</h2>
+<p>This shows the sort order currently in use.</p>
+<p>If cloud access is allowed but you are not currently showing remote (cloud resident) bills the local bills will still show an indication of whether they are also stored in the cloud or not.</p>
+<h2 id="venue">Venue</h2>
+<p>This is one of the lines representing venues, each line represents a single venue. You can swipe it left to delete it, or swipe right to make it the venue on the current bill (which may save the previous bill if it has been changed).</p>
+<p>Tapping on a venue will show details which you can edit.</p>
+<p>The location of the venue is stored when you assign it to a bill.</p>
+
+    <script>
+        let li = window.location.href.lastIndexOf("#");
+        var s;
+        if (li >= 0) {
+            s = window.location.href.substring(li + 1);
+        }
+
+        if (s != null && s.length > 0) {
+            let e = document.getElementById(s);
+            if (e != null) {
+                let h = e.innerHTML;
+                e.innerHTML = "<mark>" + h + "</mark>";
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="285.75mm"
+   height="207.96249mm"
+   viewBox="0 0 285.75001 207.96249"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="billspage.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="1109.1031"
+     inkscape:cy="442.00144"
+     inkscape:window-width="2560"
+     inkscape:window-height="1537"
+     inkscape:window-x="1192"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(41.311256,0.05096821)">
+    <image
+       width="285.75"
+       height="207.96249"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="billspage.png"
+       id="image832"
+       x="-41.186325"
+       y="0.34345409"
+       inkscape:label="Bills Image" />
+    <a
+       id="a1292"
+       xlink:href="billsglossary.html#flyout"
+       target="_parent"
+       xlink:title="Open/Close Flyout"
+       transform="matrix(0.26829332,0,0,0.26080057,-41.335458,0.46929432)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect936"
+         width="94.871796"
+         height="90.708664"
+         x="27.599068"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1345"
+       xlink:href="billsglossary.html#sort"
+       target="_parent"
+       xlink:title="Sort List"
+       transform="matrix(0.26454484,0,0,0.28688996,-42.362272,-1.5240206)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:24.5441;stroke-linecap:round"
+         id="rect938"
+         width="141.44522"
+         height="90.708664"
+         x="546.80652"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1348"
+       xlink:href="billsglossary.html#filter"
+       target="_parent"
+       xlink:title="Show All participants"
+       transform="matrix(0.26454484,0,0,0.28688996,-42.362272,-1.5240206)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect940"
+         width="132.82056"
+         height="90.708664"
+         x="688.25171"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1351"
+       xlink:href="billsglossary.html#show-local"
+       target="_parent"
+       xlink:title="Show Local Store"
+       transform="matrix(0.26454484,0,0,0.28688996,-42.362272,-1.5240206)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect942"
+         width="132.82051"
+         height="90.708664"
+         x="821.07227"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1354"
+       xlink:href="billsglossary.html#show-cloud"
+       target="_parent"
+       xlink:title="Show Cloud Store"
+       transform="matrix(0.26454484,0,0,0.28688996,-42.362272,-1.5240206)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:23.5464;stroke-linecap:round"
+         id="rect944"
+         width="119.021"
+         height="90.708664"
+         x="953.89276"
+         y="31.04895" />
+    </a>
+    <a
+       id="a888"
+       xlink:href="billsglossary.html#bill"
+       target="_parent"
+       xlink:title="Individual Bill">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:6.00001;stroke-linecap:round"
+         id="rect884"
+         width="255.19124"
+         height="39.836655"
+         x="-40.522411"
+         y="67.395248" />
+    </a>
+    <a
+       id="a971"
+       xlink:href="billsglossary.html#locaton"
+       target="_parent"
+       xlink:title="Bill Location">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:6.00001;stroke-linecap:round"
+         id="rect886"
+         width="20.904383"
+         height="95.055779"
+         x="222.16284"
+         y="68.184097" />
+    </a>
+  </g>
+</svg>

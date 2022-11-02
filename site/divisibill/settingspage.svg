@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg836"
+   width="1080"
+   height="2220"
+   viewBox="0 0 1080 2220"
+   sodipodi:docname="settingspage.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs840" />
+  <sodipodi:namedview
+     id="namedview838"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="0.33918919"
+     inkscape:cx="-109.08367"
+     inkscape:cy="1110"
+     inkscape:window-width="2560"
+     inkscape:window-height="1537"
+     inkscape:window-x="1192"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g842" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g842">
+    <image
+       width="1080"
+       height="2220"
+       preserveAspectRatio="none"
+       style="fill:#00ff00;fill-opacity:0.25;image-rendering:optimizeQuality"
+       xlink:href="settingspage.png"
+       id="image844"
+       inkscape:label="settings page" />
+    <a
+       id="a855"
+       xlink:href="settingsglossary.html#login"
+       target="_parent"
+       xlink:title="Log in or out"
+       inkscape:label="login">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect844"
+         width="309.56174"
+         height="141.51395"
+         x="392.11154"
+         y="981.75299" />
+    </a>
+    <a
+       id="a938"
+       xlink:href="settingsglossary.html#wifi"
+       target="_parent"
+       xlink:title="Require WiFi"
+       inkscape:label="wifi">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1279.5219" />
+    </a>
+    <a
+       id="a941"
+       xlink:href="settingsglossary.html#diagnostics"
+       target="_parent"
+       xlink:title="Diagnotic Options"
+       inkscape:label="diagnostics">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect848"
+         width="896.255"
+         height="247.6494"
+         x="85.498009"
+         y="1441.6733" />
+    </a>
+    <a
+       id="a852"
+       xlink:href="settingsglossary.html#location"
+       target="_parent"
+       xlink:title="Current Location"
+       inkscape:label="location">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect850"
+         width="660.39838"
+         height="79.601593"
+         x="218.16733"
+         y="238.80478" />
+    </a>
+  </g>
+</svg>

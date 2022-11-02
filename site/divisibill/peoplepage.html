@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<head>
+    <title>List of People</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <h1 id="list-of-people">List of People</h1>
+<p>The People List page is where the list of people is shown. The list is stored locally and backed up to the cloud when it changes (if cloud access is allowed).</p>
+<p>Tap on a highlighted area to see what it does (on a desktop browser you can also hover over an area to see its name).</p>
+<p><object type=image/svg+xml data="peoplepage.svg" height=400 style="width:90%"></object></p>
+
+    <script>
+        let li = window.location.href.lastIndexOf("#");
+        var s;
+        if (li >= 0) {
+            s = window.location.href.substring(li + 1);
+        }
+
+        if (s != null && s.length > 0) {
+            let e = document.getElementById(s);
+            if (e != null) {
+                let h = e.innerHTML;
+                e.innerHTML = "<mark>" + h + "</mark>";
+            }
+        }
+    </script>
+</body>
+</html>

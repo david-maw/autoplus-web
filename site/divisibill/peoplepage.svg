@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1080"
+   height="1054"
+   viewBox="0 0 1080 1054"
+   sodipodi:docname="peoplepage.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="0.71442125"
+     inkscape:cx="539.59761"
+     inkscape:cy="527"
+     inkscape:window-width="2560"
+     inkscape:window-height="1537"
+     inkscape:window-x="1192"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="1080"
+       height="1054"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="peoplepage.png"
+       id="image10"
+       inkscape:label="Bills Image" />
+    <a
+       id="a1292"
+       xlink:href="peopleglossary.html#flyout"
+       target="_parent"
+       xlink:title="Open/Close Flyout"
+       transform="matrix(0.99390409,0,0,0.8541763,0.76489099,11.204499)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect936"
+         width="94.871796"
+         height="90.708664"
+         x="27.599068"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1348"
+       xlink:href="peopleglossary.html#download-list"
+       target="_parent"
+       xlink:title="Download a List of People"
+       transform="matrix(1.0745036,0,0,1.0244928,62.097345,-0.40850753)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect940"
+         width="132.82056"
+         height="90.708664"
+         x="688.25171"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1354"
+       xlink:href="peopleglossary.html#add"
+       target="_parent"
+       xlink:title="Add a Person"
+       transform="matrix(1.0745036,0,0,1.0244928,-80.61876,-0.40850753)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:23.5464;stroke-linecap:round"
+         id="rect944"
+         width="119.021"
+         height="90.708664"
+         x="953.89276"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1185"
+       xlink:href="peopleglossary.html#person"
+       target="_Parent"
+       xlink:title="Individual Person"
+       transform="matrix(3.804089,0,0,5.8586004,149.83121,-524.52485)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:6.00001;stroke-linecap:round"
+         id="rect1098"
+         width="281.22311"
+         height="20.904383"
+         x="-37.958656"
+         y="117.01543" />
+    </a>
+  </g>
+</svg>

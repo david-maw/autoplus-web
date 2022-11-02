@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="285.75mm"
+   height="169.06876mm"
+   viewBox="0 0 285.75 169.06876"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="venuespage.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="234.78997"
+     inkscape:cy="373.42786"
+     inkscape:window-width="2560"
+     inkscape:window-height="1537"
+     inkscape:window-x="1192"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(39.536346,-49.56921)">
+    <image
+       width="285.75"
+       height="169.06876"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="venuespage.png"
+       id="image832"
+       x="-39.536346"
+       y="49.56921"
+       inkscape:label="Bills Image" />
+    <a
+       id="a1292"
+       xlink:href="venuesglossary.html#flyout"
+       target="_parent"
+       xlink:title="Open/Close Flyout"
+       transform="matrix(0.26829332,0,0,0.26080057,-39.21879,49.68182)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect936"
+         width="94.871796"
+         height="90.708664"
+         x="27.599068"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1348"
+       xlink:href="venuesglossary.html#download-list"
+       target="_parent"
+       xlink:title="Download a List of Venues"
+       transform="matrix(0.26454484,0,0,0.28688996,-40.245604,47.688504)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect940"
+         width="132.82056"
+         height="90.708664"
+         x="688.25171"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1351"
+       xlink:href="venuesglossary.html#sort"
+       target="_parent"
+       xlink:title="Sort List of Venues"
+       transform="matrix(0.26454484,0,0,0.28688996,-40.245604,47.688504)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect942"
+         width="132.82051"
+         height="90.708664"
+         x="821.07227"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1354"
+       xlink:href="venuesglossary.html#add"
+       target="_parent"
+       xlink:title="Add a Venue"
+       transform="matrix(0.26454484,0,0,0.28688996,-40.245604,47.688504)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:23.5464;stroke-linecap:round"
+         id="rect944"
+         width="119.021"
+         height="90.708664"
+         x="953.89276"
+         y="31.04895" />
+    </a>
+    <a
+       id="a1185"
+       xlink:href="venuesglossary.html#venue"
+       target="_Parent"
+       xlink:title="Individual Venue">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:6.00001;stroke-linecap:round"
+         id="rect1098"
+         width="281.22311"
+         height="20.904383"
+         x="-37.958656"
+         y="117.01543" />
+    </a>
+    <a
+       id="a1182"
+       xlink:href="venuesglossary.html#heading"
+       target="_parent"
+       xlink:title="Venue List Title">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:6.00001;stroke-linecap:round"
+         id="rect1100"
+         width="150.66933"
+         height="15.776893"
+         x="25.543333"
+         y="92.955666" />
+    </a>
+  </g>
+</svg>
