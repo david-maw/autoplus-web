@@ -2,29 +2,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <html>
 <head>
-    <title>Venue List</title>
+    <title>Items Glossary</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1 id="venue-list">Venue List</h1>
-<p>This is a list of the important areas on the venue list page as seen from left to right, top to bottom. You can see an image of the page itself <a href="venuespage.html">here</a>. If you reached this page by tapping one of the active areas in the page image, the relevant heading should be highlighted below.</p>
+    <h1 id="items-glossary">Items Glossary</h1>
+<p>This is a list of the important areas on the items page as seen from left to right, top to bottom. You can see an image of the page itself <a href="meallistpage.html">here</a>. If you reached this page by tapping one of the active areas in the page image, the relevant heading should be highlighted below.</p>
 <h2 id="icons">Icons</h2>
 <p>These appear in the toolbar at the top of the page or in the area revealed when you swipe on a participant line.</p>
 <h3 id="flyout">Flyout (<u></u>)</h3>
 <p>This icon, in the top left corner of the screen, allows you to show or collapse the flyout menu allowing navigation to other pages.</p>
-<h3 id="download-list">Download List (<u>ﭙ</u>)</h3>
-<p>Tap here to download a new list from the cloud</p>
 <h3 id="sort">Sort (<u></u>)</h3>
 <p>Sorts the list of bills by age, name, or distance of the bill venue from your current location (venues with unknown locations sort last).</p>
-<h3 id="add">Add (<u></u>)</h3>
+<h3 id="filter">Filter (<u></u> / <u></u>)</h3>
 <p>Selects only the most recent bill from each location. Shows a filled in icon when it is set.</p>
-<h2 id="heading">Heading</h2>
-<p>This shows the sort order currently in use.</p>
+<h3 id="show-local">Show Local (<u>󰃡</u> / <u>󰃠</u>)</h3>
+<p>Shows bills stored locally. Shows a filled in icon when it is set.</p>
+<h3 id="show-cloud">Show Cloud (<u></u> / <u></u>)</h3>
+<p>Shows bills stored remotely (in cloud storage). Shows a filled in icon when it is set.</p>
+<h2 id="bill">Bill</h2>
+<p>This is one of the areas representing bills, each area represents a single bill. You can swipe it left to delete a copy of the bill (if both local and remote ones are shown it will delete the local one), or swipe right to make it the current bill (which may save the previous bill if it has been changed). The current bill never shows in this list.</p>
+<p>Tapping on a bill will show a quick summary of it.</p>
+<h2 id="location">Location</h2>
+<p>This column shows where the bill is stored, either locally(<u>󰃡</u>), in the cloud (<u></u>), or both. If it stored in the cloud tapping in this column will download it.</p>
 <p>If cloud access is allowed but you are not currently showing remote (cloud resident) bills the local bills will still show an indication of whether they are also stored in the cloud or not.</p>
-<h2 id="venue">Venue</h2>
-<p>This is one of the lines representing venues, each line represents a single venue. You can swipe it left to delete it, or swipe right to make it the venue on the current bill (which may save the previous bill if it has been changed).</p>
-<p>Tapping on a venue will show details which you can edit.</p>
-<p>The location of the venue is stored when you assign it to a bill.</p>
 
     <script>
         let li = window.location.href.lastIndexOf("#");

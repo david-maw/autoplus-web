@@ -43,12 +43,12 @@
        height="1054"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
-       xlink:href="peoplepage.png"
+       xlink:href="peoplelistpage.png"
        id="image10"
-       inkscape:label="Bills Image" />
+       inkscape:label="People List" />
     <a
        id="a1292"
-       xlink:href="peopleglossary.html#flyout"
+       xlink:href="peoplelistglossary.html#flyout"
        target="_parent"
        xlink:title="Open/Close Flyout"
        transform="matrix(0.99390409,0,0,0.8541763,0.76489099,11.204499)">
@@ -62,7 +62,7 @@
     </a>
     <a
        id="a1348"
-       xlink:href="peopleglossary.html#download-list"
+       xlink:href="peoplelistglossary.html#download-list"
        target="_parent"
        xlink:title="Download a List of People"
        transform="matrix(1.0745036,0,0,1.0244928,62.097345,-0.40850753)">
@@ -76,7 +76,7 @@
     </a>
     <a
        id="a1354"
-       xlink:href="peopleglossary.html#add"
+       xlink:href="peoplelistglossary.html#add"
        target="_parent"
        xlink:title="Add a Person"
        transform="matrix(1.0745036,0,0,1.0244928,-80.61876,-0.40850753)">
@@ -90,7 +90,7 @@
     </a>
     <a
        id="a1185"
-       xlink:href="peopleglossary.html#person"
+       xlink:href="peoplelistglossary.html#person"
        target="_Parent"
        xlink:title="Individual Person"
        transform="matrix(3.804089,0,0,5.8586004,149.83121,-524.52485)">

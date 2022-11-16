@@ -49,14 +49,14 @@
        height="207.96249"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
-       xlink:href="billspage.png"
+       xlink:href="meallistpage.png"
        id="image832"
        x="-41.186325"
        y="0.34345409"
        inkscape:label="Bills Image" />
     <a
        id="a1292"
-       xlink:href="billsglossary.html#flyout"
+       xlink:href="meallistglossary.html#flyout"
        target="_parent"
        xlink:title="Open/Close Flyout"
        transform="matrix(0.26829332,0,0,0.26080057,-41.335458,0.46929432)">
@@ -70,7 +70,7 @@
     </a>
     <a
        id="a1345"
-       xlink:href="billsglossary.html#sort"
+       xlink:href="meallistglossary.html#sort"
        target="_parent"
        xlink:title="Sort List"
        transform="matrix(0.26454484,0,0,0.28688996,-42.362272,-1.5240206)">
@@ -84,7 +84,7 @@
     </a>
     <a
        id="a1348"
-       xlink:href="billsglossary.html#filter"
+       xlink:href="meallistglossary.html#filter"
        target="_parent"
        xlink:title="Show All participants"
        transform="matrix(0.26454484,0,0,0.28688996,-42.362272,-1.5240206)">
@@ -98,7 +98,7 @@
     </a>
     <a
        id="a1351"
-       xlink:href="billsglossary.html#show-local"
+       xlink:href="meallistglossary.html#show-local"
        target="_parent"
        xlink:title="Show Local Store"
        transform="matrix(0.26454484,0,0,0.28688996,-42.362272,-1.5240206)">
@@ -112,7 +112,7 @@
     </a>
     <a
        id="a1354"
-       xlink:href="billsglossary.html#show-cloud"
+       xlink:href="meallistglossary.html#show-cloud"
        target="_parent"
        xlink:title="Show Cloud Store"
        transform="matrix(0.26454484,0,0,0.28688996,-42.362272,-1.5240206)">
@@ -126,7 +126,7 @@
     </a>
     <a
        id="a888"
-       xlink:href="billsglossary.html#bill"
+       xlink:href="meallistglossary.html#bill"
        target="_parent"
        xlink:title="Individual Bill">
       <rect
@@ -139,7 +139,7 @@
     </a>
     <a
        id="a971"
-       xlink:href="billsglossary.html#locaton"
+       xlink:href="meallistglossary.html#location"
        target="_parent"
        xlink:title="Bill Location">
       <rect

@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="venuespage.svg"
+   sodipodi:docname="venuelistviewpage.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -49,14 +49,14 @@
        height="169.06876"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
-       xlink:href="venuespage.png"
+       xlink:href="venuelistviewpage.png"
        id="image832"
        x="-39.536346"
        y="49.56921"
        inkscape:label="Bills Image" />
     <a
        id="a1292"
-       xlink:href="venuesglossary.html#flyout"
+       xlink:href="venuelistviewglossary.html#flyout"
        target="_parent"
        xlink:title="Open/Close Flyout"
        transform="matrix(0.26829332,0,0,0.26080057,-39.21879,49.68182)">
@@ -70,7 +70,7 @@
     </a>
     <a
        id="a1348"
-       xlink:href="venuesglossary.html#download-list"
+       xlink:href="venuelistviewglossary.html#download-list"
        target="_parent"
        xlink:title="Download a List of Venues"
        transform="matrix(0.26454484,0,0,0.28688996,-40.245604,47.688504)">
@@ -84,7 +84,7 @@
     </a>
     <a
        id="a1351"
-       xlink:href="venuesglossary.html#sort"
+       xlink:href="venuelistviewglossary.html#sort"
        target="_parent"
        xlink:title="Sort List of Venues"
        transform="matrix(0.26454484,0,0,0.28688996,-40.245604,47.688504)">
@@ -98,7 +98,7 @@
     </a>
     <a
        id="a1354"
-       xlink:href="venuesglossary.html#add"
+       xlink:href="venuelistviewglossary.html#add"
        target="_parent"
        xlink:title="Add a Venue"
        transform="matrix(0.26454484,0,0,0.28688996,-40.245604,47.688504)">
@@ -112,7 +112,7 @@
     </a>
     <a
        id="a1185"
-       xlink:href="venuesglossary.html#venue"
+       xlink:href="venuelistviewglossary.html#venue"
        target="_Parent"
        xlink:title="Individual Venue">
       <rect
@@ -125,7 +125,7 @@
     </a>
     <a
        id="a1182"
-       xlink:href="venuesglossary.html#heading"
+       xlink:href="venuelistviewglossary.html#heading"
        target="_parent"
        xlink:title="Venue List Title">
       <rect

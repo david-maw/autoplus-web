@@ -7,7 +7,7 @@
 	width="1080"
 	height="2220"
 	viewBox="0 0 1080 2220"
-	sodipodi:docname="itemspage.svg"
+	sodipodi:docname="lineitemspage.svg"
 	inkscape:version="1.1 (c68e22c387, 2021-05-23)"
 	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
 	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -43,14 +43,14 @@
 			height="2220"
 			preserveAspectRatio="none"
 			style="image-rendering:optimizeQuality"
-			xlink:href="itemspage.png"
+			xlink:href="lineitemspage.png"
 			id="image922"
 			x="0.80654097"
 			y="1.4125752"
 			inkscape:label="Items Page" />
 		<a
 			id="a1292"
-			xlink:href="itemsglossary.html#open-flyout"
+			xlink:href="lineitemsglossary.html#flyout"
 			target="_parent"
 			xlink:title="Open/Close Flyout">
 			<rect
@@ -63,7 +63,7 @@
 		</a>
 		<a
 			id="a1345"
-			xlink:href="itemsglossary.html#mail"
+			xlink:href="lineitemsglossary.html#mail"
 			target="_parent"
 			xlink:title="Send Mail">
 			<rect
@@ -76,7 +76,7 @@
 		</a>
 		<a
 			id="a1348"
-			xlink:href="itemsglossary.html#filter"
+			xlink:href="lineitemsglossary.html#filter"
 			target="_parent"
 			xlink:title="Show All participants">
 			<rect
@@ -89,7 +89,7 @@
 		</a>
 		<a
 			id="a1351"
-			xlink:href="itemsglossary.html#add"
+			xlink:href="lineitemsglossary.html#add"
 			target="_parent"
 			xlink:title="Add Participant">
 			<rect
@@ -102,7 +102,7 @@
 		</a>
 		<a
 			id="a1354"
-			xlink:href="itemsglossary.html#delete"
+			xlink:href="lineitemsglossary.html#delete"
 			target="_parent"
 			xlink:title="Delete All Participants ">
 			<rect
@@ -115,7 +115,7 @@
 		</a>
 		<a
 			id="a1177"
-			xlink:href="itemsglossary.html#venue-name"
+			xlink:href="lineitemsglossary.html#venue-name"
 			target="_parent"
 			xlink:title="Venue Name">
 			<rect
@@ -128,7 +128,7 @@
 		</a>
 		<a
 			id="a1231"
-			xlink:href="itemsglossary.html#line-items"
+			xlink:href="lineitemsglossary.html#line-items"
 			target="_parent"
 			xlink:title="Edit an item"
 			inkscape:label="LineItem Link">
@@ -144,7 +144,7 @@
 		</a>
 		<a
 			id="a956"
-			xlink:href="itemsglossary.html#sharing-control"
+			xlink:href="lineitemsglossary.html#sharing-control"
 			target="_parent"
 			xlink:title="Sharing Control"
 			inkscape:label="Sharing">
@@ -160,7 +160,7 @@
 		</a>
 		<a
 			id="a1063"
-			xlink:href="itemsglossary.html#comp"
+			xlink:href="lineitemsglossary.html#comp"
 			target="_parent"
 			xlink:title="Comp"
 			inkscape:label="Comp">
