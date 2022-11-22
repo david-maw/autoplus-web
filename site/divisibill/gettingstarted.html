@@ -2,44 +2,55 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <html>
 <head>
-    <title>Getting Started With DivisiBill</title>
+    <title>Welcome</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1 id="getting-started-with-divisibill">Getting Started With DivisiBill</h1>
-<p>When you first run DivisiBill it will start up with some sample data. A fake bill
-for &quot;Queasy Diner&quot; shared unevenly between 3 people and some supporting data.
-However,on the first run before it can do anything else the app will ask for some permissions.</p>
-<p>The first permission requested will be access to photos and media (which allows
-it to load bill images for scanning). Then it will ask for access to your
-location in order to figure out whether you're in a venue you have already
-stored. Finally it will ask you to log in to the Microsoft Azure cloud in
-order to store and retrieve data from OneDrive. All these are optional, the app works without them, but they all add capabilities to the app.</p>
-<p>The first thing you'll see is the <a href="lineitemspage.html">Items</a> page which will contain a half dozen
-typical items you might find on a restaurant bill. An appetizer that's shared equally, meals for
-each participant, wine shared unequally and finally a discount, shared equally.</p>
+    <h1 id="welcome">Welcome</h1>
+<p>When you first run DivisiBill it will start by asking for access to:</p>
+<ul>
+<li>photos and media (which allows it to load bill images for scanning).</li>
+<li>your location, in order to figure out whether you're at a venue you have already
+stored</li>
+<li>finally, it will ask you to log in to the Microsoft Azure cloud in order to store and
+retrieve data from OneDrive.</li>
+</ul>
+<p>All these are optional, the app works without them, but they all enable additional capabilities
+if you choose to permit them. If you allow them and have previously saved DivisiBill data to the cloud it will
+retrieve your old list of people and venues automatically. Individual bills (or lists of people or venues) may
+also be reloaded manually.</p>
+<p>After that you will see the startup screen, which looks like this:</p>
+<center><object type=image/svg+xml data="startup.svg" Height=300 style="width:50%"></object></center>
+<p>The progress indicator will spin and the Status information will be updated as initialization progresses.
+Once initialization has been completed (typically a few seconds)
+you'll see the <a href="lineitemspage.html">Items</a> page which will contain a fake bill for
+&quot;Queasy Diner&quot; with a half dozen typical items you might find on a restaurant bill.
+The items include an appetizer that's shared equally, meals for
+each participant, wine shared unequally and finally a discount shared equally.</p>
 <p>You can get an idea of how each item is shared by looking in the left column, where there are different
 symbols for each class of sharing, but to understand (or change) the details of how an item is shared
 you have to select the item (just tap on it). When an item is selected detailed information for that
-item will be shown at the bottom of the page.</p>
+item will be shown at the bottom of the page where it can be changed.</p>
 <p>To see the results of the sharing swipe left on any empty space or the name of the venue and that
-will take you to the <a href="totalspage.html">Totals</a> page. It lists the participants and the amount each one
-will pay along with details for the whole bill at the bottom of the page. Swipe right on any empty area
-or the name of the venue to return to the items page.</p>
-<p>There are many other pages in DivisiBill (see the <a href="index.html">index</a>) but they exist in support of
+will take you to the <a href="totalspage.html">Totals</a> page. That page lists the participants and the amount each one
+will pay, along with details for the whole bill at the bottom of the page. Swipe right on any empty area
+or the name of the venue to return to the <a href="lineitemspage.html">Items</a> page.</p>
+<p>There are many other pages in DivisiBill (see the <a href="index.html#pages">index</a>) but they exist in support of
 these two.</p>
-<h2 id="general-user-interface">General User Interface</h2>
-<p>In general pages are either a lot of individual values or lists of items. With lists of items you can
-swipe individual items from lists of purchased items, participants and so on) left or right,
+<h2 id="general-user-interface-hints">General User Interface Hints</h2>
+<p>Most pages are either a lot of individual values, or lists of purchased items, participants and so on.
+You can select a page using the flyout menu that pulls out from the left of each main page (you can also
+open the flyout by clicking on the hamburger icon on the<br />
+With lists you can usually swipe individual items left or right,
 swipe left deletes the item (you can usually get it back if you delete an item by mistake). Other
 actions are tap, press and hold, or, occasionally, double tap.</p>
-<p>The operating system &quot;back&quot; button returns to the previous page or the Totals or Items page if there is no previous page. On the Items or Totals page, the &quot;back&quot; button exits the program.</p>
-<p>In general exiting DivisiBill and returning to it has no effect, the current bill is simply reloaded. If you
+<p>The operating system &quot;back&quot; button returns to the previous page or the Totals or Items page if there is no previous page.
+If you are already on the Items or Totals page, the &quot;back&quot; button exits the program.</p>
+<p>Closing DivisiBill and returning to it has no effect, the current bill is simply reloaded. If you
 leave a bill unchanged for more than a couple of hours it is saved next time the program starts up and a
-new bill (initially with the same content as the previous one) is started. If you choose to reload a saved
+new bill with the same content as the previous one is started (you can see creation and update times in the
+<a href="propertiespage.html">Bill Properties</a> page). If you choose to reload a saved
 bill and the current bill is not saved, it will be, there's no need to explicitly save a bill.</p>
-<h2 id="icons">Icons</h2>
-<p>DivisiBill uses a variety of icons to enable actions on various pages, for a list of these see <a href="icons.html">icons</a></p>
 
     <script>
         let li = window.location.href.lastIndexOf("#");
