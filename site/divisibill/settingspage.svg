@@ -26,7 +26,7 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      inkscape:zoom="0.33918919"
-     inkscape:cx="-109.08367"
+     inkscape:cx="-107.60956"
      inkscape:cy="1110"
      inkscape:window-width="2560"
      inkscape:window-height="1537"
@@ -51,7 +51,8 @@
        xlink:href="settingsglossary.html#login"
        target="_parent"
        xlink:title="Log in or out"
-       inkscape:label="login">
+       inkscape:label="login"
+       transform="translate(-2.9482072,-86.533864)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect844"
@@ -65,7 +66,8 @@
        xlink:href="settingsglossary.html#wifi"
        target="_parent"
        xlink:title="Require WiFi"
-       inkscape:label="wifi">
+       inkscape:label="wifi"
+       transform="translate(-14.741036,-103.18725)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect846"
@@ -79,10 +81,26 @@
        xlink:href="settingsglossary.html#diagnostics"
        target="_parent"
        xlink:title="Diagnotic Options"
-       inkscape:label="diagnostics">
+       inkscape:label="diagnostics"
+       transform="translate(5.8964143,162.15139)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect848"
+         width="896.255"
+         height="247.6494"
+         x="85.498009"
+         y="1441.6733" />
+    </a>
+    <a
+       id="a941-8"
+       xlink:href="settingsglossary.html#license"
+       target="_parent"
+       xlink:title="License Additional features"
+       inkscape:label="diagnostics"
+       transform="matrix(0.56578948,0,0,0.98809523,214.01655,-97.817347)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect848-5"
          width="896.255"
          height="247.6494"
          x="85.498009"
@@ -93,7 +111,8 @@
        xlink:href="settingsglossary.html#location"
        target="_parent"
        xlink:title="Current Location"
-       inkscape:label="location">
+       inkscape:label="location"
+       transform="translate(0,-40)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect850"

@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<head>
+    <title>Licensing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 id="licensing">Licensing</h1>
+<p>The free version of DivisiBill does not show ads and can handle simple bills but it has some limitations. The <a href="settingspage.html">settings</a> page allows you to license additional features using the <a href="settingsglossary.html#license">license</a> area. You can license the pro features and once you have done that you can buy extra packages of OCR actions if you use up the included ones.</p>
+<h2 id="pro-features">Pro Features</h2>
+<p>The pro edition mostly allows you to use more of various features as follows:</p>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th style="text-align: center;">Pro</th>
+<th style="text-align: center;">Free</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Participants per Bill</td>
+<td style="text-align: center;">Unlimited</td>
+<td style="text-align: center;">4</td>
+</tr>
+<tr>
+<td>Items Per Bill</td>
+<td style="text-align: center;">Unlimited</td>
+<td style="text-align: center;">4</td>
+</tr>
+<tr>
+<td>Venues</td>
+<td style="text-align: center;">Unlimited</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>People</td>
+<td style="text-align: center;">Unlimited</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Saved Bills</td>
+<td style="text-align: center;">Unlimited</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>OCR Capable</td>
+<td style="text-align: center;">Yes</td>
+<td style="text-align: center;">No</td>
+</tr>
+</tbody>
+</table>
+<p>DivisiBill verifies you have a pro license during startup. It is possible there is no Internet connection at startup and in that case DivisiBill checks when it was last able to verify a license and if it was within a couple of weeks just goes ahead and assumes you have one.</p>
+<h2 id="ocr">OCR</h2>
+<p>OCR stands for Optical Character recognition; it allows you to send a picture of the bill to a cloud based service to be scanned into item names and amounts and a few other useful values. It cannot help you distribute the cost of items - only you know who had what - but it can take a lot of the tedium out of the data entry process.</p>
+<p>Each OCR scan costs a few cents, and once you purchase the pro edition you'll have an initial credit of 30 OCR scans. You can buy more in blocks of 30 at a time. You will retain any credits through an upgrade but if you uninstall and reinstall DivisiBill you'll lose any scan credits and have to buy more before you can use the scan feature again (your pro license will be preserved, it's just scan credits that are lost).</p>
+<p>Modern mobile phones can take very high resolution pictures, these are unnecessarily large and detailed for OCR so DivisiBill reduces the resolution and converts them to black and white before saving them to save storage space and transmission time.</p>
+
+    <script>
+        let li = window.location.href.lastIndexOf("#");
+        var s;
+        if (li >= 0) {
+            s = window.location.href.substring(li + 1);
+        }
+
+        if (s != null && s.length > 0) {
+            let e = document.getElementById(s);
+            if (e != null) {
+                let h = e.innerHTML;
+                e.innerHTML = "<mark>" + h + "</mark>";
+            }
+        }
+    </script>
+</body>
+</html>
