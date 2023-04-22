@@ -7,7 +7,7 @@
    width="1080"
    height="2220"
    viewBox="0 0 1080 2220"
-   sodipodi:docname="settingspage.svg"
+   sodipodi:docname="settingspagebasic.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="0.45014485"
-     inkscape:cx="29.990346"
-     inkscape:cy="1109.6428"
-     inkscape:window-width="2560"
-     inkscape:window-height="1537"
-     inkscape:window-x="1192"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.3509009"
+     inkscape:cx="508.69063"
+     inkscape:cy="1110"
+     inkscape:window-width="1284"
+     inkscape:window-height="1003"
+     inkscape:window-x="1467"
+     inkscape:window-y="60"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g842" />
   <g
      inkscape:groupmode="layer"
@@ -43,7 +43,7 @@
        height="2220"
        preserveAspectRatio="none"
        style="fill:#00ff00;fill-opacity:0.25;image-rendering:optimizeQuality"
-       xlink:href="settingspage.png"
+       xlink:href="settingspagebasic.png"
        id="image844"
        inkscape:label="settings page" />
     <a
@@ -82,7 +82,7 @@
        target="_parent"
        xlink:title="Preferred bill defaults"
        inkscape:label="defaults"
-       transform="matrix(3.2818412,0,0,3.0981569,-1246.9056,-2722.618)">
+       transform="matrix(3.3475152,0,0,3.3158697,-1293.542,-2938.5481)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect844-5"
@@ -93,11 +93,11 @@
     </a>
     <a
        id="a855"
-       xlink:href="settingsglossary.html#login"
+       xlink:href="settingsglossary.html#upgrade"
        target="_parent"
-       xlink:title="Log in or out"
-       inkscape:label="login"
-       transform="translate(8.8446215,-65.896414)">
+       xlink:title="Buy a Professional Upgrade"
+       inkscape:label="upgrade"
+       transform="translate(2.9482072,31.394422)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect844"
@@ -107,42 +107,12 @@
          y="981.75299" />
     </a>
     <a
-       id="a938"
-       xlink:href="settingsglossary.html#wifi"
-       target="_parent"
-       xlink:title="Require WiFi"
-       inkscape:label="wifi"
-       transform="translate(-5.8964145,-76.653386)">
-      <rect
-         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
-         id="rect846"
-         width="1031.8726"
-         height="88.446213"
-         x="35.378487"
-         y="1279.5219" />
-    </a>
-    <a
-       id="a941-8"
-       xlink:href="settingsglossary.html#scans"
-       target="_parent"
-       xlink:title="Buy additional OCR Scans"
-       inkscape:label="scans"
-       transform="matrix(0.32894738,0,0,0.65476189,372.83181,624.49343)">
-      <rect
-         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
-         id="rect848-5"
-         width="896.255"
-         height="247.6494"
-         x="85.498009"
-         y="1441.6733" />
-    </a>
-    <a
        id="a941"
        xlink:href="settingsglossary.html#diagnostics"
        target="_parent"
        xlink:title="Diagnostic Options"
        inkscape:label="diagnostics"
-       transform="translate(17.689243,321.35458)">
+       transform="translate(17.689243,-224.06375)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect848"
