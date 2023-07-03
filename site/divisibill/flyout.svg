@@ -26,11 +26,11 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      inkscape:zoom="0.57972973"
-     inkscape:cx="181.11888"
+     inkscape:cx="-256.15385"
      inkscape:cy="1110"
-     inkscape:window-width="1200"
+     inkscape:window-width="2560"
      inkscape:window-height="1537"
-     inkscape:window-x="-8"
+     inkscape:window-x="1192"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g8" />
@@ -114,10 +114,25 @@
        id="a842"
        xlink:href="venuelistviewpage.html"
        target="_parent"
-       xlink:title="List of venues">
+       xlink:title="List of venues"
+       transform="translate(0,110)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke:#ffff00;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1089"
+         width="588.20514"
+         height="203.74358"
+         x="29.482071"
+         y="958.86713" />
+    </a>
+    <a
+       id="a842-1"
+       xlink:href="billmanagementpage.html"
+       target="_parent"
+       xlink:title="Bill Management"
+       transform="matrix(1,0,0,0.64651729,0,317.21919)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke:#ffff00;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1089-1"
          width="588.20514"
          height="203.74358"
          x="29.482071"
@@ -134,13 +149,14 @@
          width="294.82071"
          height="64.860558"
          x="29.482071"
-         y="1189.6016" />
+         y="1299.6016" />
     </a>
     <a
        id="a848"
        xlink:href="settingspage.html"
        target="_parent"
-       xlink:title="Program settings">
+       xlink:title="Program settings"
+       transform="translate(0,110)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke:#ffff00;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect920"
@@ -150,10 +166,25 @@
          y="1301.3148" />
     </a>
     <a
+       id="a848-0"
+       xlink:href="aboutpage.html"
+       target="_parent"
+       xlink:title="About/Notes/Report  Pages"
+       transform="matrix(1.2275317,0,0,1.0531892,-3.5193724,151.21145)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke:#ffff00;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect920-0"
+         width="424.54184"
+         height="64.860558"
+         x="29.482071"
+         y="1301.3148" />
+    </a>
+    <a
        id="a851"
        xlink:href="helppage.html"
        target="_parent"
-       xlink:title="Program information, release notes, problem reporting">
+       xlink:title="Program information, release notes, problem reporting"
+       transform="translate(0,120)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke:#ffff00;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect922"

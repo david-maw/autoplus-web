@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<head>
+    <title>About</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 id="about">About</h1>
+<p>This is a list of the less obvious areas on the Information and Help pages. This focuses on the About page but others (&quot;Release Notes&quot; and &quot;Report a Problem&quot;) are selectable from the list at the bottom of the page.</p>
+<h2 id="information">Information</h2>
+<p>This area describes the version of the, whether it is the Professional or Basic Edition and when it was builtSelect.</p>
+<h2 id="save-icon">Save Icon</h2>
+<p>Select this icon to save a snapshot of the current bill immediately without altering the bill itself.</p>
+<h2 id="about-autoplus">About AutoPlus</h2>
+<p>This button takes you to an external web site to learn more about AutoPlus, the same site also has a copy of this help text if you would rather view it in a web browser.</p>
+<h2 id="about-xamarin">About Xamarin</h2>
+<p>This button takes you to an external web site to learn more about the Xamarin technology used to create DivisiBill. Xamarin is being replaced by Microsoft MAUI at the time of writing (2023) and for the moment both are supported.</p>
+<h2 id="selectable-options">Selectable Options</h2>
+<p>As well as this About page you can select either the &quot;Release Notes&quot; or the &quot;Report a Problem&quot; page if you want to send something to the support team.</p>
+<ul>
+<li><p>Release Notes</p>
+<p>This contains a list of highlights of the changes in the current and previous releases.</p>
+</li>
+<li><p>Report a Problem</p>
+<p>This offers a text page already populated with some data into which you can enter problem information and have a mail message to DivisiBill support created.</p>
+</li>
+</ul>
+
+    <script>
+        let li = window.location.href.lastIndexOf("#");
+        var s;
+        if (li >= 0) {
+            s = window.location.href.substring(li + 1);
+        }
+
+        if (s != null && s.length > 0) {
+            let e = document.getElementById(s);
+            if (e != null) {
+                let h = e.innerHTML;
+                e.innerHTML = "<mark>" + h + "</mark>";
+            }
+        }
+    </script>
+</body>
+</html>

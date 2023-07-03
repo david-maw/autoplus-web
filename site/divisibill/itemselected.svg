@@ -26,8 +26,8 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      inkscape:zoom="0.95687732"
-     inkscape:cx="309.86208"
-     inkscape:cy="672.5"
+     inkscape:cx="177.1387"
+     inkscape:cy="839.71057"
      inkscape:window-width="2560"
      inkscape:window-height="1537"
      inkscape:window-x="1192"
@@ -45,12 +45,15 @@
        style="image-rendering:optimizeQuality"
        xlink:href="itemselected.png"
        id="image832"
-       inkscape:label="page" />
+       inkscape:label="page"
+       x="0"
+       y="0" />
     <a
        id="a1073"
        target="_parent"
        xlink:href="itemselectedglossary.html#participant-1"
-       xlink:title="Participant 1">
+       xlink:title="Participant 1"
+       transform="matrix(1.0244648,0,0,1,1.718759,166)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect936"
@@ -64,7 +67,8 @@
        id="a828"
        xlink:href="itemselectedglossary.html#participant-2"
        target="_parent"
-       xlink:title="Participant 2">
+       xlink:title="Participant 2"
+       transform="matrix(1.0566038,0,0,1,-30.732256,166)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect938"
@@ -75,10 +79,41 @@
          inkscape:label="diner2" />
     </a>
     <a
+       id="a828-7"
+       xlink:href="itemselectedglossary.html#share-information"
+       target="_parent"
+       xlink:title="Share Information"
+       transform="matrix(1.2138365,0,0,0.80198003,-119.93943,124.43031)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect938-5"
+         width="332.33102"
+         height="105.55158"
+         x="375.17871"
+         y="968.77625"
+         inkscape:label="diner2" />
+    </a>
+    <a
+       id="a828-8"
+       xlink:href="itemselectedglossary.html#share-selector"
+       target="_parent"
+       xlink:title="Shares Selector"
+       transform="matrix(2.9622641,0,0,1,-1050.7646,37.099873)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect938-6"
+         width="332.33102"
+         height="105.55158"
+         x="375.17871"
+         y="968.77625"
+         inkscape:label="diner2" />
+    </a>
+    <a
        id="a831"
        xlink:href="itemselectedglossary.html#participant-3"
        target="_parent"
-       xlink:title="Participant 3">
+       xlink:title="Participant 3"
+       transform="matrix(1.0470219,0,0,1,-47.976435,166)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect940"
@@ -92,7 +127,8 @@
        id="a834"
        xlink:href="itemselectedglossary.html#description"
        target="_parent"
-       xlink:title="Desription">
+       xlink:title="Description"
+       transform="translate(0,138)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect942"
@@ -106,7 +142,8 @@
        id="a837"
        xlink:href="itemselectedglossary.html#cost"
        target="_parent"
-       xlink:title="Cost">
+       xlink:title="Cost"
+       transform="translate(0,138)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect944"

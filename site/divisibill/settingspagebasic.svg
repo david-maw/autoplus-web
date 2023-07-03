@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      inkscape:zoom="0.3509009"
-     inkscape:cx="508.69063"
+     inkscape:cx="487.31707"
      inkscape:cy="1110"
-     inkscape:window-width="1284"
+     inkscape:window-width="1585"
      inkscape:window-height="1003"
      inkscape:window-x="1467"
      inkscape:window-y="60"
@@ -92,12 +92,57 @@
          y="981.75299" />
     </a>
     <a
+       id="a938-8-36"
+       xlink:href="settingsglossary.html#delete-all"
+       target="_parent"
+       xlink:title="Remove all before restore"
+       inkscape:label="wifi"
+       transform="translate(8.3891484,-462.81155)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846-9-7"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1469.5219" />
+    </a>
+    <a
+       id="a938-8-9"
+       xlink:href="settingsglossary.html#archive-button"
+       target="_parent"
+       xlink:title="Create and share an archive"
+       inkscape:label="wifi"
+       transform="matrix(0.25562096,0,0,1.60589,222.28451,-1505.0146)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846-9-1"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1469.5219" />
+    </a>
+    <a
+       id="a938-8-9-5"
+       xlink:href="settingsglossary.html#restore-button"
+       target="_parent"
+       xlink:title="Browse for an archive"
+       inkscape:label="wifi"
+       transform="matrix(0.25562096,0,0,1.5722294,600.38236,-1454.0613)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846-9-1-1"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1469.5219" />
+    </a>
+    <a
        id="a855"
        xlink:href="settingsglossary.html#upgrade"
        target="_parent"
        xlink:title="Buy a Professional Upgrade"
        inkscape:label="upgrade"
-       transform="translate(2.9482072,31.394422)">
+       transform="translate(5.7980147,313.52536)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect844"
@@ -112,7 +157,7 @@
        target="_parent"
        xlink:title="Diagnostic Options"
        inkscape:label="diagnostics"
-       transform="translate(17.689243,-224.06375)">
+       transform="translate(20.53905,49.517765)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect848"

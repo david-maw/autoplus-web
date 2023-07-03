@@ -7,7 +7,7 @@
    width="1080"
    height="1054"
    viewBox="0 0 1080 1054"
-   sodipodi:docname="peoplepage.svg"
+   sodipodi:docname="peoplelistpage.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="0.71442125"
      inkscape:cx="539.59761"
-     inkscape:cy="527"
+     inkscape:cy="701.9668"
      inkscape:window-width="2560"
      inkscape:window-height="1537"
      inkscape:window-x="1192"
@@ -40,12 +40,13 @@
      id="g8">
     <image
        width="1080"
-       height="1054"
+       height="2220"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
        xlink:href="peoplelistpage.png"
-       id="image10"
-       inkscape:label="People List" />
+       id="image918"
+       x="-2.5019746"
+       y="-1.4103488" />
     <a
        id="a1292"
        xlink:href="peoplelistglossary.html#flyout"
@@ -93,7 +94,7 @@
        xlink:href="peoplelistglossary.html#person"
        target="_Parent"
        xlink:title="Individual Person"
-       transform="matrix(3.804089,0,0,5.8586004,149.83121,-524.52485)">
+       transform="matrix(3.8389302,0,0,6.9969016,143.15373,-661.72366)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:6.00001;stroke-linecap:round"
          id="rect1098"
