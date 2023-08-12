@@ -115,7 +115,7 @@
        xlink:href="venuelistviewpage.html"
        target="_parent"
        xlink:title="List of venues"
-       transform="translate(0,110)">
+       transform="matrix(1,0,0,0.82220899,0,294.70173)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke:#ffff00;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1089"
@@ -129,7 +129,7 @@
        xlink:href="billmanagementpage.html"
        target="_parent"
        xlink:title="Bill Management"
-       transform="matrix(1,0,0,0.64651729,0,317.21919)">
+       transform="matrix(1,0,0,0.32480022,0,661.25089)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke:#ffff00;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1089-1"
@@ -178,20 +178,6 @@
          height="64.860558"
          x="29.482071"
          y="1301.3148" />
-    </a>
-    <a
-       id="a851"
-       xlink:href="helppage.html"
-       target="_parent"
-       xlink:title="Program information, release notes, problem reporting"
-       transform="translate(0,120)">
-      <rect
-         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke:#ffff00;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect922"
-         width="495.2988"
-         height="64.860558"
-         x="29.482071"
-         y="1505.0597" />
     </a>
   </g>
 </svg>

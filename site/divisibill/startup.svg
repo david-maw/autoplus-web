@@ -26,14 +26,15 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      inkscape:zoom="0.33918919"
-     inkscape:cx="244.7012"
+     inkscape:cx="-234.38247"
      inkscape:cy="1110"
      inkscape:window-width="2560"
      inkscape:window-height="1537"
      inkscape:window-x="1192"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g8" />
+     inkscape:current-layer="g8"
+     inkscape:snap-text-baseline="false" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
@@ -68,36 +69,55 @@
        y="26.533865" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold'"
-       x="129.72112"
-       y="1695.2191"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas Bold'"
+       x="63.721123"
+       y="1561.2191"
        id="text6473"><tspan
          sodipodi:role="line"
          id="tspan6471"
-         x="129.72112"
-         y="1695.2191"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffff00;fill-opacity:1">Status Information</tspan></text>
+         x="63.721123"
+         y="1561.2191">Status Information</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold'"
-       x="300.71713"
-       y="1158.6454"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas Bold'"
+       x="358.71713"
+       y="1160.6454"
        id="text23529"><tspan
          sodipodi:role="line"
          id="tspan23527"
-         x="300.71713"
-         y="1158.6454"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';fill:#ffff00;fill-opacity:1">Version</tspan></text>
+         x="358.71713"
+         y="1160.6454">Version</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold'"
-       x="371.47412"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas Bold'"
+       x="329.47412"
        y="173.94423"
        id="text31243"><tspan
          sodipodi:role="line"
          id="tspan31241"
-         x="371.47412"
+         x="329.47412"
          y="173.94423"
          style="font-size:96px;fill:#ffff00;fill-opacity:1">Progress</tspan></text>
+    <rect
+       style="fill:#fffefd;fill-opacity:0.93;fill-rule:evenodd;stroke:#72ff00;stroke-width:0;stroke-linecap:round;stroke-opacity:1"
+       id="rect11692"
+       width="377.37051"
+       height="232.90842"
+       x="374.42233"
+       y="454.0239" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas Bold'"
+       x="418.64542"
+       y="548.36646"
+       id="text7254"><tspan
+         sodipodi:role="line"
+         id="tspan7252"
+         x="418.64542"
+         y="548.36646">Tap to</tspan><tspan
+         sodipodi:role="line"
+         x="418.64542"
+         y="668.36646"
+         id="tspan7256">Pause</tspan></text>
   </g>
 </svg>
