@@ -8,7 +8,7 @@
    height="1345"
    viewBox="0 0 1080 1345"
    sodipodi:docname="itemselected.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,15 +25,17 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="0.95687732"
-     inkscape:cx="177.1387"
-     inkscape:cy="839.71057"
+     inkscape:zoom="0.58781078"
+     inkscape:cx="177.7783"
+     inkscape:cy="839.55589"
      inkscape:window-width="2560"
-     inkscape:window-height="1537"
+     inkscape:window-height="1529"
      inkscape:window-x="1192"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g830" />
+     inkscape:current-layer="g830"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
@@ -53,7 +55,7 @@
        target="_parent"
        xlink:href="itemselectedglossary.html#participant-1"
        xlink:title="Participant 1"
-       transform="matrix(1.0244648,0,0,1,1.718759,166)">
+       transform="matrix(1.0244648,0,0,1,3.926125,112.30354)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect936"
@@ -68,7 +70,7 @@
        xlink:href="itemselectedglossary.html#participant-2"
        target="_parent"
        xlink:title="Participant 2"
-       transform="matrix(1.0566038,0,0,1,-30.732256,166)">
+       transform="matrix(1.0566038,0,0,1,-28.732256,114.39366)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect938"
@@ -83,7 +85,7 @@
        xlink:href="itemselectedglossary.html#share-information"
        target="_parent"
        xlink:title="Share Information"
-       transform="matrix(1.2138365,0,0,0.80198003,-119.93943,124.43031)">
+       transform="matrix(1.2138365,0,0,0.80198003,-117.93943,88.43031)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect938-5"
@@ -98,7 +100,7 @@
        xlink:href="itemselectedglossary.html#share-selector"
        target="_parent"
        xlink:title="Shares Selector"
-       transform="matrix(2.9622641,0,0,1,-1050.7646,37.099873)">
+       transform="matrix(2.9622641,0,0,1,-1056.7646,-2.900127)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect938-6"
@@ -113,7 +115,7 @@
        xlink:href="itemselectedglossary.html#participant-3"
        target="_parent"
        xlink:title="Participant 3"
-       transform="matrix(1.0470219,0,0,1,-47.976435,166)">
+       transform="matrix(1.0470219,0,0,1,-44.57398,111.25846)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect940"
@@ -128,14 +130,14 @@
        xlink:href="itemselectedglossary.html#description"
        target="_parent"
        xlink:title="Description"
-       transform="translate(0,138)">
+       transform="translate(-3.4024555,157.10369)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect942"
          width="332.33099"
          height="83.605286"
-         x="19.856255"
-         y="1119.2657"
+         x="21.856255"
+         y="1047.2657"
          inkscape:label="description" />
     </a>
     <a
@@ -143,7 +145,7 @@
        xlink:href="itemselectedglossary.html#cost"
        target="_parent"
        xlink:title="Cost"
-       transform="translate(0,138)">
+       transform="translate(-3.4024554,90.755802)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect944"
