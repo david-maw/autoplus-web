@@ -38,7 +38,7 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      inkscape:zoom="0.51316815"
-     inkscape:cx="540.75843"
+     inkscape:cx="540.75842"
      inkscape:cy="1068.8504"
      inkscape:window-width="2560"
      inkscape:window-height="1529"
@@ -108,7 +108,7 @@
     </a>
     <a
        xlink:href="settingsglossary.html#wifi-switch"
-       transform="matrix(1,0,0,0.62638402,-10.339429,526.08025)"
+       transform="matrix(1,0,0,0.62638402,-10.339429,666.08025)"
        inkscape:label="wifi"
        xlink:title="Require WiFi"
        target="_parent"
@@ -123,7 +123,7 @@
     </a>
     <a
        xlink:href="settingsglossary.html#status"
-       transform="matrix(0.61697206,0,0,0.51712773,208.8202,988.03761)"
+       transform="matrix(0.61697206,0,0,0.51712773,208.8202,1134.0376)"
        inkscape:label="wifi"
        xlink:title="Current Purchase Status"
        target="_parent"
@@ -138,7 +138,7 @@
     </a>
     <a
        xlink:href="settingsglossary.html#backup-switch"
-       transform="matrix(1,0,0,0.58342536,-10.339429,385.95943)"
+       transform="matrix(1,0,0,0.58342536,-10.339429,521.95943)"
        inkscape:label="wifi"
        xlink:title="Allow automated backup to cloud"
        target="_parent"
@@ -153,7 +153,7 @@
     </a>
     <a
        xlink:href="settingsglossary.html#delete-all-switch"
-       transform="matrix(0.80528415,0,0,0.69630703,95.683086,-36.021509)"
+       transform="matrix(0.80528415,0,0,0.69630703,95.683086,107.97849)"
        inkscape:label="wifi"
        xlink:title="Remove all before restore"
        target="_parent"
@@ -168,7 +168,7 @@
     </a>
     <a
        xlink:href="settingsglossary.html#archive-button"
-       transform="matrix(0.2425767,0,0,1.3091949,231.77718,-1077.4642)"
+       transform="matrix(0.2425767,0,0,1.3091949,231.77718,-933.4642)"
        inkscape:label="wifi"
        xlink:title="Create and share an archive"
        target="_parent"
@@ -183,7 +183,7 @@
     </a>
     <a
        xlink:href="settingsglossary.html#modify-button"
-       transform="matrix(0.49279487,0,0,1.4454978,284.13475,-620.01892)"
+       transform="matrix(0.49279487,0,0,1.4454978,284.13475,-474.01892)"
        inkscape:label="wifi"
        xlink:title="Change Professional Subscription"
        target="_parent"
@@ -198,7 +198,7 @@
     </a>
     <a
        xlink:href="settingsglossary.html#restore-button"
-       transform="matrix(0.25270145,0,0,1.2817533,600.58248,-1011.4674)"
+       transform="matrix(0.25270145,0,0,1.2817533,600.58248,-867.4674)"
        inkscape:label="wifi"
        xlink:title="Browse for an archive"
        target="_parent"
@@ -212,8 +212,38 @@
          y="1450.4404" />
     </a>
     <a
+       xlink:href="settingsglossary.html#restore-hints-button"
+       transform="matrix(0.34455505,0,0,1.3091949,131.5815,-1100.8905)"
+       inkscape:label="wifi"
+       xlink:title="Show all hints"
+       target="_parent"
+       id="a938-8-9-0">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846-9-1-98"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1469.5219" />
+    </a>
+    <a
+       xlink:href="settingsglossary.html#clear-checkboxes-button"
+       transform="matrix(0.42644235,0,0,1.2817533,503.69398,-1036.1068)"
+       inkscape:label="wifi"
+       xlink:title="Clear &quot;Do not ask again&quot; checkboxes"
+       target="_parent"
+       id="a938-8-9-5-4">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846-9-1-1-0"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1450.4404" />
+    </a>
+    <a
        xlink:href="settingsglossary.html#scans"
-       transform="matrix(0.70960291,0,0,0.52252499,173.66239,1007.5791)"
+       transform="matrix(0.70960291,0,0,0.52252499,173.66239,1153.5791)"
        inkscape:label="scans"
        xlink:title="OCR Scan Status"
        target="_parent"
