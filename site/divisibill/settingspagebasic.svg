@@ -37,9 +37,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="0.3509009"
-     inkscape:cx="487.31707"
-     inkscape:cy="1110"
+     inkscape:zoom="1.01"
+     inkscape:cx="502.9703"
+     inkscape:cy="1269.802"
      inkscape:window-width="2560"
      inkscape:window-height="1529"
      inkscape:window-x="1192"
@@ -64,83 +64,38 @@
        height="2220"
        width="1080" />
     <a
-       xlink:href="settingsglossary.html#title"
-       transform="translate(-2.9482072,-81.2749)"
-       inkscape:label="title"
-       xlink:title="Title Including Edition"
+       xlink:href="settingsglossary.html#send-crash-data"
+       transform="matrix(0.53348897,0,0,0.38088838,3.1006263,908.53687)"
+       inkscape:label="scans"
+       xlink:title="Send Crash Data on Fault"
        target="_parent"
-       id="a852">
+       id="a941-8-6">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
-         id="rect850"
-         width="660.39838"
-         height="79.601593"
-         x="218.16733"
-         y="238.80478" />
+         id="rect848-5-4"
+         width="896.255"
+         height="247.6494"
+         x="85.498009"
+         y="1441.6733" />
     </a>
     <a
-       xlink:href="settingsglossary.html#location"
-       transform="matrix(1.1177361,0,0,1,-64.919,-1.673307)"
-       inkscape:label="location"
-       xlink:title="Current Location"
+       xlink:href="settingsglossary.html#ask-after-restart"
+       transform="matrix(0.53348897,0,0,0.27072657,490.85524,1083.6653)"
+       inkscape:label="scans"
+       xlink:title="Ask about sending telemetry after restart"
        target="_parent"
-       id="a9">
+       id="a941-8-6-6">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
-         id="rect7"
-         width="660.39838"
-         height="79.601593"
-         x="218.16733"
-         y="238.80478" />
+         id="rect848-5-4-7"
+         width="896.255"
+         height="247.6494"
+         x="85.498009"
+         y="1441.6733" />
     </a>
     <a
-       xlink:href="settingsglossary.html#defaults"
-       transform="matrix(3.3475152,0,0,3.3158697,-1293.542,-2938.5481)"
-       inkscape:label="defaults"
-       xlink:title="Preferred bill defaults"
-       target="_parent"
-       id="a855-9">
-      <rect
-         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
-         id="rect844-5"
-         width="309.56174"
-         height="141.51395"
-         x="392.11154"
-         y="981.75299" />
-    </a>
-    <a
-       xlink:href="settingsglossary.html#delete-all-switch"
-       transform="translate(11.238956,-491.66136)"
-       inkscape:label="delete"
-       xlink:title="Remove all before restore"
-       target="_parent"
-       id="a938-8-36">
-      <rect
-         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
-         id="rect846-9-7"
-         width="1031.8726"
-         height="88.446213"
-         x="35.378487"
-         y="1469.5219" />
-    </a>
-    <a
-       xlink:href="settingsglossary.html#archive-button"
-       transform="matrix(0.25562096,0,0,1.60589,225.13432,-1533.8644)"
-       inkscape:label="wifi"
-       xlink:title="Create and share an archive"
-       target="_parent"
-       id="a938-8-9">
-      <rect
-         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
-         id="rect846-9-1"
-         width="1031.8726"
-         height="88.446213"
-         x="35.378487"
-         y="1469.5219" />
-    </a>
-    <a
-       xlink:href="settingsglossary.html#scans"
-       transform="matrix(1.3682377,0,0,1,-195.41616,634.57605)"
+       xlink:href="settingsglossary.html#purchase-scans"
+       transform="matrix(2.0248379,0,0,0.86451265,-548.28633,465.43072)"
        inkscape:label="upgrade"
        xlink:title="Buy a set of OCR scans"
        target="_parent"
@@ -154,23 +109,8 @@
          y="981.75299" />
     </a>
     <a
-       xlink:href="settingsglossary.html#restore-button"
-       transform="matrix(0.25562096,0,0,1.5722294,603.23217,-1482.9111)"
-       inkscape:label="wifi"
-       xlink:title="Browse for an archive"
-       target="_parent"
-       id="a938-8-9-5">
-      <rect
-         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
-         id="rect846-9-1-1"
-         width="1031.8726"
-         height="88.446213"
-         x="35.378487"
-         y="1469.5219" />
-    </a>
-    <a
        xlink:href="settingsglossary.html#subscribe"
-       transform="translate(5.7980147,272.37517)"
+       transform="matrix(1.8155894,0,0,0.93003522,-441.72674,182.96428)"
        inkscape:label="upgrade"
        xlink:title="Buy a Professional Subscription"
        target="_parent"
@@ -185,7 +125,7 @@
     </a>
     <a
        xlink:href="settingsglossary.html#scans"
-       transform="matrix(1.63521,0,0,0.41599808,-342.8462,1039.7831)"
+       transform="matrix(1.63521,0,0,0.41599808,-342.8462,839.7831)"
        inkscape:label="upgrade"
        xlink:title="OCR Scans Remaining"
        target="_parent"
@@ -197,6 +137,126 @@
          height="141.51395"
          x="392.11154"
          y="981.75299" />
+    </a>
+    <a
+       xlink:href="settingsglossary.html#dark-mode-switch"
+       transform="matrix(0.29748244,0,0,0.82578135,648.80746,-407.06771)"
+       inkscape:label="wifi"
+       xlink:title="Toggle Dark Mode"
+       target="_parent"
+       id="a938-8-1">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846-9-4"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1469.5219" />
+    </a>
+    <a
+       xlink:href="settingsglossary.html#title"
+       transform="translate(-4.9603377,-24.945985)"
+       inkscape:label="title"
+       xlink:title="Title Including Edition"
+       target="_parent"
+       id="a852">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect850"
+         width="660.39838"
+         height="79.601593"
+         x="218.16733"
+         y="238.80478" />
+    </a>
+    <a
+       xlink:href="settingsglossary.html#location"
+       transform="matrix(1.2741265,0,0,0.6561998,-146.41568,138.23688)"
+       inkscape:label="location"
+       xlink:title="Current Location"
+       target="_parent"
+       id="a9">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect7"
+         width="660.39838"
+         height="79.601593"
+         x="218.16733"
+         y="238.80478" />
+    </a>
+    <a
+       xlink:href="settingsglossary.html#defaults"
+       transform="matrix(3.3384958,0,0,1.6565613,-1273.3541,-1248.9465)"
+       inkscape:label="defaults"
+       xlink:title="Preferred bill defaults"
+       target="_parent"
+       id="a855-9">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect844-5"
+         width="309.56174"
+         height="141.51395"
+         x="392.11154"
+         y="981.75299" />
+    </a>
+    <a
+       xlink:href="settingsglossary.html#restore-hints-button"
+       transform="matrix(0.39566641,0,0,1.3875554,123.86377,-1406.5889)"
+       inkscape:label="wifi"
+       xlink:title="Show all hints"
+       target="_parent"
+       id="a938-8-9-0">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846-9-1-98"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1469.5219" />
+    </a>
+    <a
+       xlink:href="settingsglossary.html#system-settings-button"
+       transform="matrix(0.39566641,0,0,1.4659159,124.76113,-1376.6713)"
+       inkscape:label="wifi"
+       xlink:title="Show system settings for app"
+       target="_parent"
+       id="a938-8-9-0-6">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846-9-1-98-2"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1469.5219" />
+    </a>
+    <a
+       xlink:href="settingsglossary.html#clear-checkboxes-button"
+       transform="matrix(0.38489561,0,0,1.2817533,560.71654,-1223.7455)"
+       inkscape:label="wifi"
+       xlink:title="Clear &quot;Do not ask again&quot; checkboxes"
+       target="_parent"
+       id="a938-8-9-5-4">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846-9-1-1-0"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1450.4404" />
+    </a>
+    <a
+       xlink:href="settingsglossary.html#licensing-help"
+       transform="matrix(0.60988113,0,0,0.82859166,218.67085,-193.60389)"
+       inkscape:label="wifi"
+       xlink:title="Change Professional Subscription"
+       target="_parent"
+       id="a938-8-9-8-0">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
+         id="rect846-9-1-9-8"
+         width="1031.8726"
+         height="88.446213"
+         x="35.378487"
+         y="1469.5219" />
     </a>
   </g>
 </svg>

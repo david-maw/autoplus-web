@@ -6,41 +6,50 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1 id="items-glossary">Items Glossary</h1>
+<h1 id="items-glossary">Items Glossary</h1>
 <p>This is a list of the important areas on the Items page as seen from left to right, top to bottom. You can see an image of the page itself <a href="meallistpage.html">here</a>. If you reached this page by tapping one of the active areas in the page image, the relevant heading should be highlighted below.</p>
 <h2 id="icons">Icons</h2>
-<p>These appear in the toolbar at the top of the page or in the area revealed when you swipe on a participant line.</p>
-<h3 id="flyout">Flyout (<u></u>)</h3>
+<p>These appear in the tool bar at the top of the page or in the area revealed when you swipe on a participant line.</p>
+<h3 id="flyout">Flyout (<u>󰍜</u>)</h3>
 <p>This icon, in the top left corner of the screen, allows you to show or collapse the flyout menu to navigate to other pages.</p>
-<h3 id="sort">Sort (<u></u>)</h3>
-<p>Sorts the list of bills by age, name, or distance of the bill venue from your current location (bills with unknown locations sort last).</p>
-<h3 id="filter">Filter (<u></u> / <u></u>)</h3>
-<p>Selects only the most recent bill from each location. Shows a filled in icon when it is set.</p>
-<h3 id="show-local">Show Local (<u>󰃡</u> / <u>󰃠</u>)</h3>
-<p>Shows bills stored locally. Shows a filled in icon when it is set.</p>
-<h3 id="show-cloud">Show Cloud (<u></u> / <u></u>)</h3>
-<p>Shows bills stored remotely (in cloud storage). Shows a filled in icon when it is set.</p>
+<h3 id="selection-mode">Selection Mode (<u>󰉹</u>)</h3>
+<p>Determines whether a single bill or multiple bills may be selected.</p>
+<h3 id="delete">Delete (<u>󰩺</u>)</h3>
+<p>Deletes the selected item or items (you can Undo this if you do it by mistake). To delete a single item, you can also swipe left on that item.</p>
+<h3 id="ellipsis">Ellipsis (<u>󰇙</u>)</h3>
+<p>Tap on the ellipsis to open a secondary menu containing additional commands:</p>
+<pre><code>- Use and Show Details - This duplicate the swipe right or 
+  double tap actions (single tap now selects or deselects a bill)
+- Download - This duplicates the effect of a single tap to the 
+  right of an item.
+- Show All / Show Latest - Restrict the bills shown to only 
+  the latest per venue.
+- Show Bills / Show Venues - Allows you to show all bills 
+  or just the latest one for each venue.
+- Show/Hide Local/Remote which allows you to limit the display of 
+  bills to only those stored locally or remotely or both. 
+  Bills which are hidden are deselected.
+- Select None, Select All and Invert Selection allowing manipulation
+  of the list of selected bills. Note that Select All actually selects all except the current bill.
+</code></pre>
+<h2 id="selected-count">Selected Count</h2>
+<p>This tells you the page is in multiple item selection mode (press the Selection Mode icon to toggle this mode) and how many items are currently selected.</p>
+<h2 id="total-count">Total Count</h2>
+<p>This tells you how many bills there are in the current list.</p>
+<h2 id="filter-indicator">Filter Indicator</h2>
+<p>This tells you whether &quot;Show Bills&quot; or &quot;Show Venues&quot; are currently selected, change this by tapping the <a href="#ellipsis">ellipsis</a> and selecting Show Bills or Show Venues.</p>
+<h2 id="selected">Selected</h2>
+<p>This column is only visible if the selection mode has been used to choose multiple selection. It indicates whether a given item has been selected.</p>
 <h2 id="bill">Bill</h2>
 <p>Each entry in this list represents a single bill. You can swipe it left to delete a copy of the bill (if both local and remote ones are shown it will delete the local one), or swipe right to make it the current bill (which may save the bill you were using previously if it has been changed). The current bill never shows in this list.</p>
-<p>Tapping on a bill will show a quick summary of it.</p>
+<p>Tapping on the center of a bill will select or deselect it, double tapping will show a quick summary of it.</p>
+<h2 id="image">Image</h2>
+<p>This column has an image icon (<u>󰥶</u>) in it if the bill has a stored image.</p>
 <h2 id="location">Location</h2>
-<p>This column shows where the bill is stored, either locally (<u>󰃡</u>), in the cloud (<u></u>), or both. If it stored in the cloud, tapping in this column will download it.</p>
-<p>If cloud access is allowed but you are not currently showing remote (cloud resident) bills, local bills will still show the cloud icon if they are also stored in the cloud.</p>
+<p>If cloud access is available and enabled this column shows whether the bill is stored locally (<u>󰉖</u>/<u>󰉋</u>), in the cloud (<u>󰅣</u>/<u>󰅟</u>), or both. A filled icon means the item is stored there, an outline one means it is not.</p>
+<p>If cloud access is allowed but you are not currently showing remote (cloud resident) bills, local bills will still show the cloud icon to indicate whether or not they are also stored in the cloud.</p>
+<p>For a remote (cloud) only bill, tapping on this area will download it, use the <a href="datamanagementpage.html">Manage Data</a> page to select all such bills. Note that there is no Upload selection because all local bills are uploaded automatically if cloud storage is available and enabled.</p>
 
-    <script>
-        let li = window.location.href.lastIndexOf("#");
-        var s;
-        if (li >= 0) {
-            s = window.location.href.substring(li + 1);
-        }
-
-        if (s != null && s.length > 0) {
-            let e = document.getElementById(s);
-            if (e != null) {
-                let h = e.innerHTML;
-                e.innerHTML = "<mark>" + h + "</mark>";
-            }
-        }
-    </script>
+<script src="script.js"></script>
 </body>
 </html>

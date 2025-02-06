@@ -25,12 +25,12 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="0.57972973"
-     inkscape:cx="159.55711"
-     inkscape:cy="1111.7249"
-     inkscape:window-width="2560"
+     inkscape:zoom="0.34"
+     inkscape:cx="555.88235"
+     inkscape:cy="425"
+     inkscape:window-width="1200"
      inkscape:window-height="1529"
-     inkscape:window-x="1192"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g830"
@@ -53,7 +53,8 @@
        id="a1292"
        xlink:href="totalsglossary.html#flyout"
        target="_parent"
-       xlink:title="Open/Close Flyout">
+       xlink:title="Open/Close Flyout"
+       transform="translate(2.2750583,63.347319)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect936"
@@ -64,9 +65,10 @@
     </a>
     <a
        id="a1345"
-       xlink:href="totalsglossary.html#mail"
+       xlink:href="totalsglossary.html#ellipsis"
        target="_parent"
-       xlink:title="Send Mail">
+       xlink:title="Send Mail"
+       transform="matrix(0.77086245,0,0,1,541.42905,63.911422)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:24.5441;stroke-linecap:round"
          id="rect938"
@@ -79,7 +81,8 @@
        id="a1348"
        xlink:href="totalsglossary.html#filter"
        target="_parent"
-       xlink:title="Show All participants">
+       xlink:title="Show All participants"
+       transform="matrix(1.1377049,0,0,1,-261.47044,63.347319)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect940"
@@ -92,7 +95,8 @@
        id="a1351"
        xlink:href="totalsglossary.html#add"
        target="_parent"
-       xlink:title="Add Participant">
+       xlink:title="Add Participant"
+       transform="matrix(1.1377049,0,0,1,-261.47044,63.347319)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect942"
@@ -105,7 +109,8 @@
        id="a1354"
        xlink:href="totalsglossary.html#delete"
        target="_parent"
-       xlink:title="Delete All Participants ">
+       xlink:title="Delete All Participants "
+       transform="matrix(1.1731534,0,0,1,-295.2845,63.347319)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:23.5464;stroke-linecap:round"
          id="rect944"
@@ -118,7 +123,8 @@
        id="a1177"
        xlink:href="totalsglossary.html#venue-name"
        target="_parent"
-       xlink:title="Venue Name">
+       xlink:title="Venue Name"
+       transform="translate(-1.7249417,115.34732)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect1048"
@@ -132,7 +138,7 @@
        xlink:href="totalsglossary.html#participant"
        target="_parent"
        xlink:title="Participant and Amount"
-       transform="translate(0,-10)">
+       transform="matrix(1.0000151,0,0,1.0171898,3.7047754,49.93449)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect1074"
@@ -142,25 +148,11 @@
          y="431.23544" />
     </a>
     <a
-       id="a1315"
-       xlink:href="totalsglossary.html#unallocated-amount"
-       target="_parent"
-       xlink:title="Unallocated Amount"
-       transform="translate(0,88)">
-      <rect
-         style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
-         id="rect1076"
-         width="796.9231"
-         height="77.622375"
-         x="143.17017"
-         y="1507.5991" />
-    </a>
-    <a
        id="a1318"
        xlink:href="totalsglossary.html#rounded-total"
        target="_parent"
        xlink:title="Rounded Total"
-       transform="translate(0,78)">
+       transform="matrix(1.0327901,0,0,1,-7.2398191,58)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect1078"
@@ -173,7 +165,8 @@
        id="a1321"
        xlink:href="totalsglossary.html#summary"
        target="_parent"
-       xlink:title="Bill Summary Amounts">
+       xlink:title="Bill Summary Amounts"
+       transform="matrix(0.95230264,0,0,1,24.971936,-30)">
       <rect
          style="fill:#00ff00;fill-opacity:0.25;fill-rule:evenodd;stroke-width:22.6772;stroke-linecap:round"
          id="rect1080"

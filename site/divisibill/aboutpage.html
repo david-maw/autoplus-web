@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1 id="information-page">Information Page</h1>
-<p>This is a collection of useful capbilities. They can be selected using the tab bar at the bottom of the page.</p>
+<h1 id="information-page">Information Page</h1>
+<p>This is a collection of useful capabilities. They can be selected using the tab bar at the bottom of the page.</p>
 <ul>
 <li><p>About</p>
 <p>The About Page is the most complex. In the image below, tap on a highlighted area to see what it does (on a desktop browser, you can also hover over an area to see its name).</p>
@@ -24,20 +24,6 @@
 </li>
 </ul>
 
-    <script>
-        let li = window.location.href.lastIndexOf("#");
-        var s;
-        if (li >= 0) {
-            s = window.location.href.substring(li + 1);
-        }
-
-        if (s != null && s.length > 0) {
-            let e = document.getElementById(s);
-            if (e != null) {
-                let h = e.innerHTML;
-                e.innerHTML = "<mark>" + h + "</mark>";
-            }
-        }
-    </script>
+<script src="script.js"></script>
 </body>
 </html>
