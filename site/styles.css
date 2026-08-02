@@ -1,24 +1,26 @@
-* {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
+/* Global layout properties - apply to all color schemes */
 html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    padding: 10px;
     max-width: 500px;
     margin: 0 auto;
     border: 0;
     padding: 0;
-    color: white;
-    background-color: black;
 }
 
-body {
-    width: 90%;
+table, th, td {
+    border-collapse: collapse;
     padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-h1 {
-    text-align: center;
-    font-size: 3.5em;
+object {
+  display: block;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
@@ -30,32 +32,59 @@ img {
     margin-right: auto;
 }
 
-table, th, td {
-    border: 1px solid white;
-    border-collapse: collapse;
-    padding: 10px;
-    margin-left: auto;
-    margin-right: auto;
+h1 {
+  text-align: center;
 }
 
+table, th, td, object {
+    border-style: solid;
+    border-width: 1px;
+}
+
+/* Dark mode colors */
+@media (prefers-color-scheme: dark) {
+    html, body {
+        color: white;
+        background-color: black;
+    }
+
+    table, th, td, object {
+        border-color: white;
+    }
+
+    a:link, a:visited {
+        color: mediumspringgreen;
+    }
+}
+
+/* Light mode colors */
+@media (prefers-color-scheme: light) {
+    html, body {
+        color: black;
+        background-color: white;
+    }
+
+    table, th, td, object {
+        border-color: black;
+    }
+
+    a:link, a:visited {
+        color: darkgreen;
+    }
+}
+
+/* Light/Dark Mode independent styles */
 .highlight {
     color: orangered;
 }
 
-a:link {
-    color: mediumspringgreen;
-}
-
-a:visited {
-    color: mediumspringgreen;
-}
-
+/* Redefine underline use for alternate font */
 u {
     font-family: icons;
-    text-decoration-line: none;
+    text-decoration: none;
 }
 
 @font-face {
     font-family: icons;
-    src: url(divisibill\materialdesignicons-webfont.ttf)
+    src: url(materialdesignicons-webfont.ttf)
 }
